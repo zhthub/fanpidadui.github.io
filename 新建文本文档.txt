@@ -1,0 +1,4 @@
+<audio controls autoplay="autoplay" loop="loop">
+    <source src="Illusionary Daytime-xxxCr3.mp3" type="audio/mpeg" />
+      如果不播放，说明你的浏览器不支持！
+    </audio>
